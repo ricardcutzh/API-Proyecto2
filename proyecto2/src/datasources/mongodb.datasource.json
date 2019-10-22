@@ -1,0 +1,11 @@
+{
+  "name": "mongodb",
+  "connector": "mongodb",
+  "url": "mongodb+srv://ricardcutzh:ricardcutzh@arqui2-3lelk.mongodb.net/test?retryWrites=true&w=majority",
+  "host": "arqui2-3lelk.mongodb.net",
+  "port": 27017,
+  "user": "ricardcutzh",
+  "password": "ricardcutzh",
+  "database": "Arqui2",
+  "useNewUrlParser": true
+}
