@@ -13,5 +13,3 @@ EXPOSE 3000
 WORKDIR /home
 
 RUN npm install
-
-ENTRYPOINT ['npm', 'start']
