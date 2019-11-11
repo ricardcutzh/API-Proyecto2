@@ -6,3 +6,4 @@ export * from './decision.model';
 export * from './coordenada.model';
 export * from './position.model';
 export * from './log.model';
+export * from './fine.model';
