@@ -6,3 +6,4 @@ export * from './objeto.controller';
 export * from './decision.controller';
 export * from './coordenada.controller';
 export * from './position.controller';
+export * from './log-controller.controller';

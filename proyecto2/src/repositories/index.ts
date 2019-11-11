@@ -5,3 +5,4 @@ export * from './objeto.repository';
 export * from './decision.repository';
 export * from './coordenada.repository';
 export * from './position.repository';
+export * from './log.repository';
