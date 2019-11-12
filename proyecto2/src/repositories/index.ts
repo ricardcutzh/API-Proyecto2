@@ -7,3 +7,5 @@ export * from './coordenada.repository';
 export * from './position.repository';
 export * from './log.repository';
 export * from './fine.repository';
+export * from './color.repository';
+export * from './modo.repository';

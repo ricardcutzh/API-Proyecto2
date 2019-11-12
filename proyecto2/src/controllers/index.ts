@@ -8,3 +8,5 @@ export * from './coordenada.controller';
 export * from './position.controller';
 export * from './log-controller.controller';
 export * from './fine-controller.controller';
+export * from './color-controller.controller';
+export * from './modo-controller.controller';

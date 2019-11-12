@@ -7,3 +7,5 @@ export * from './coordenada.model';
 export * from './position.model';
 export * from './log.model';
 export * from './fine.model';
+export * from './color.model';
+export * from './modo.model';
